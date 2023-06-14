@@ -1,9 +1,4 @@
-# BirdBoard
 
-Simple example Twitter client to demonstrate some core Cypress concepts as seen within the [📺 Cypress In A Nutshell webcast](https://youtu.be/7LEU4tMeG8Q).
-
-- The frontend is implement with Vue, Vuex, Vue Router, and Vuetify.
-- The backend provides an API via an Express server, and data is stored within MongoDB instance.
 
 
 ## Project setup
