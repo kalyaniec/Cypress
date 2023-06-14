@@ -4,7 +4,7 @@
 ## Project setup
 1. Install a local instance of MongoDB. [Check the installation docs](https://docs.mongodb.com/manual/installation/) for your operating system.
    > If you're using macOS you can quickly have a MongoDB instance via the [MongoDB.app](http://gcollazo.github.io/mongodbapp/)
-
+ 
 2. **(Optional)** If you actually want to load real tweets from Twitter, you'll need to grab a [Twitter API keys](https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html), and place them within `/src/server/twitter.js` file.
     ```js
     const twitter = new TwitterAPI({
